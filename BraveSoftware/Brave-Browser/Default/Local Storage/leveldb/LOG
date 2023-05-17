@@ -1,0 +1,6 @@
+2023/05/17-13:37:48.814 3 Reusing MANIFEST /home/kai/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2023/05/17-13:37:48.814 3 Recovering log #4
+2023/05/17-13:37:48.815 3 Reusing old log /home/kai/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000004.log 
+2023/05/17-13:42:10.435 6 Level-0 table #8: started
+2023/05/17-13:42:10.443 6 Level-0 table #8: 32090 bytes OK
+2023/05/17-13:42:10.450 6 Delete type=0 #4

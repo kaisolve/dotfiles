@@ -1,0 +1,247 @@
+{
+   "checksum": "8ecde7aff28d9bbd63d1e6b5bed99786",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13326639405000000",
+            "date_last_used": "0",
+            "guid": "975957dc-5035-478c-b455-ae418d2a49a8",
+            "id": "5",
+            "name": "Getting Started",
+            "type": "url",
+            "url": "https://www.mozilla.org/firefox/?utm_medium=firefox-desktop&utm_source=bookmarks-toolbar&utm_campaign=new-users&utm_content=-global"
+         }, {
+            "date_added": "13326643603000000",
+            "date_last_used": "0",
+            "guid": "4e7fd6d5-3489-46a7-9c2a-85e7abbd1ae0",
+            "id": "6",
+            "name": "Intel graphics - ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/title/Intel_graphics#No_sound_through_HDMI_on_a_Haswell_CPU"
+         }, {
+            "date_added": "13326643609000000",
+            "date_last_used": "0",
+            "guid": "8c57ed78-e337-4d64-84ee-bea54118c37e",
+            "id": "7",
+            "name": "Reddit - Dive into anything",
+            "type": "url",
+            "url": "https://www.reddit.com/r/archlinux/comments/zhyuxi/cant_get_sound_working/"
+         }, {
+            "date_added": "13326652314000000",
+            "date_last_used": "0",
+            "guid": "55bb48e9-a74e-4bd0-9efc-4204d63858c4",
+            "id": "8",
+            "name": "GitHub - AstroNvim/AstroNvim: AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins",
+            "type": "url",
+            "url": "https://github.com/AstroNvim/AstroNvim"
+         }, {
+            "date_added": "13326653689000000",
+            "date_last_used": "0",
+            "guid": "d772367a-522a-4748-9672-af9179593213",
+            "id": "9",
+            "name": "How To Mount A Windows NTFS Disk In Linux",
+            "type": "url",
+            "url": "https://www.rootusers.com/how-to-mount-a-windows-ntfs-disk-in-linux/"
+         }, {
+            "date_added": "13326737322000000",
+            "date_last_used": "0",
+            "guid": "c0dba429-339e-48d8-b831-777e8fa952a0",
+            "id": "10",
+            "name": "NetworkManager - ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/title/NetworkManager"
+         }, {
+            "date_added": "13326777309000000",
+            "date_last_used": "0",
+            "guid": "5c63cddd-efea-4bee-b6b0-67990168e519",
+            "id": "11",
+            "name": "seeingangelz/dotfiles: There's no place like ~/",
+            "type": "url",
+            "url": "https://github.com/seeingangelz/dotfiles"
+         }, {
+            "date_added": "13326787968000000",
+            "date_last_used": "0",
+            "guid": "148b1909-f018-4b95-9c76-a35fa43fdbfc",
+            "id": "12",
+            "name": "[SOLVED] Startx freezes system and doesn't enter into window manager / Newbie Corner / Arch Linux Forums",
+            "type": "url",
+            "url": "https://bbs.archlinux.org/viewtopic.php?id=267323"
+         }, {
+            "date_added": "13326793543000000",
+            "date_last_used": "0",
+            "guid": "d56db946-744b-4d08-a62b-51cc740dc21f",
+            "id": "13",
+            "name": "kai names - Google Search",
+            "type": "url",
+            "url": "https://www.google.com/search?client=firefox-b-d&q=kai+names"
+         }, {
+            "date_added": "13326793569000000",
+            "date_last_used": "0",
+            "guid": "be9cbe22-a70f-4ecf-8cad-85cfe892732b",
+            "id": "14",
+            "name": "Kai Name Meaning & Kai Family History at Ancestry.com®",
+            "type": "url",
+            "url": "https://www.ancestry.com/name-origin?surname=kai"
+         }, {
+            "date_added": "13326818225000000",
+            "date_last_used": "0",
+            "guid": "26f8c3d2-9826-4718-84d3-3be88811bcc6",
+            "id": "15",
+            "name": "Install Nerd Font on Arch Linux – Behova.net",
+            "type": "url",
+            "url": "https://www.behova.net/install-nerd-font-on-arch-linux/"
+         }, {
+            "date_added": "13326834750000000",
+            "date_last_used": "0",
+            "guid": "887e3b1b-b7db-4872-83a7-b5e78df3dd46",
+            "id": "16",
+            "name": "Kai Name Meaning (Origin, Popularity & Nicknames) - Mom Loves Best",
+            "type": "url",
+            "url": "https://momlovesbest.com/kai-name-meaning"
+         }, {
+            "date_added": "13326883553000000",
+            "date_last_used": "0",
+            "guid": "6c624e64-c1e4-45f4-ae3d-48db4920e3ad",
+            "id": "17",
+            "name": "dm-dwm/config.h at master · Lindstream/dm-dwm",
+            "type": "url",
+            "url": "https://github.com/Lindstream/dm-dwm/blob/master/config.h"
+         }, {
+            "date_added": "13326894783000000",
+            "date_last_used": "0",
+            "guid": "8b17670a-a7d3-4112-be2d-bd5dc5b44cfd",
+            "id": "18",
+            "name": "(2) What's a replacement for pulseaudio-ctl after switching to pipewire-pulse? : archlinux",
+            "type": "url",
+            "url": "https://www.reddit.com/r/archlinux/comments/ly3ycb/whats_a_replacement_for_pulseaudioctl_after/"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13326639405000000",
+                  "date_last_used": "0",
+                  "guid": "4da32092-9d7a-4a68-a247-dde5ab091826",
+                  "id": "21",
+                  "name": "Get Help",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/products/firefox"
+               }, {
+                  "date_added": "13326639405000000",
+                  "date_last_used": "0",
+                  "guid": "38ca24e1-fc48-42cd-891e-dae563a979e5",
+                  "id": "22",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13326639405000000",
+                  "date_last_used": "0",
+                  "guid": "d3744ba3-3b1e-40f3-a45d-4d823c75334e",
+                  "id": "23",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/contribute/"
+               }, {
+                  "date_added": "13326639405000000",
+                  "date_last_used": "0",
+                  "guid": "bc0c39a2-8c2f-4ec7-9ff6-9e7201c0561f",
+                  "id": "24",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/about/"
+               } ],
+               "date_added": "13327067534553818",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "5c327479-2a4f-47ad-bf2c-1688d8f74369",
+               "id": "20",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13326926619000000",
+                  "date_last_used": "0",
+                  "guid": "0bfe039f-d9a5-47ef-89f5-849da9c7f4d0",
+                  "id": "26",
+                  "name": "Dwm status bar and sys tray - Technical Issues & Assistance / Suckless - ArchLabs Linux",
+                  "type": "url",
+                  "url": "https://forum.archlabslinux.com/t/dwm-status-bar-and-sys-tray/5975/4"
+               }, {
+                  "date_added": "13327002250000000",
+                  "date_last_used": "0",
+                  "guid": "ef682472-b1be-4df1-9ddc-973480b9dcfb",
+                  "id": "27",
+                  "name": "ifwllc8x9nba1.png (PNG Image, 1920 × 4320 pixels)",
+                  "type": "url",
+                  "url": "https://i.redd.it/ifwllc8x9nba1.png"
+               }, {
+                  "date_added": "13327002376000000",
+                  "date_last_used": "0",
+                  "guid": "d321c1d3-7a05-4d59-9950-43095b439a02",
+                  "id": "28",
+                  "name": "(2) [Gnome] Do I wanna know? : unixporn",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/unixporn/comments/10a4svm/gnome_do_i_wanna_know/"
+               }, {
+                  "date_added": "13327011382000000",
+                  "date_last_used": "0",
+                  "guid": "098ffaee-2f3f-42e7-8daa-5fbb85fb107e",
+                  "id": "29",
+                  "name": "top angle photography of cup photo – Free China Image on Unsplash",
+                  "type": "url",
+                  "url": "https://unsplash.com/photos/bAzDhilQFsA"
+               }, {
+                  "date_added": "13327036762000000",
+                  "date_last_used": "0",
+                  "guid": "f69d19db-bbf9-4c39-a461-37701a714fc2",
+                  "id": "30",
+                  "name": "NvChad/NvChad: Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.",
+                  "type": "url",
+                  "url": "https://github.com/NvChad/NvChad"
+               } ],
+               "date_added": "13327067534553924",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "a53b0728-260d-4c0f-a40c-0de38baaeeaf",
+               "id": "25",
+               "name": "unfiled",
+               "type": "folder"
+            } ],
+            "date_added": "13327067534553785",
+            "date_last_used": "0",
+            "date_modified": "13327067534553785",
+            "guid": "14c8d368-cd9c-4cb8-9d54-5c4c32179eab",
+            "id": "19",
+            "name": "Imported From Firefox",
+            "type": "folder"
+         } ],
+         "date_added": "13327067214739367",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13327067214739369",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13327067214739370",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
