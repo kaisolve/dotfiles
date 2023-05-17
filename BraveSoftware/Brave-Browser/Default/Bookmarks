@@ -1,5 +1,5 @@
 {
-   "checksum": "8ecde7aff28d9bbd63d1e6b5bed99786",
+   "checksum": "36589ee0dc2a287127248dfd5114e6d9",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -208,15 +208,26 @@
             } ],
             "date_added": "13327067534553785",
             "date_last_used": "0",
-            "date_modified": "13327067534553785",
+            "date_modified": "13328802772947743",
             "guid": "14c8d368-cd9c-4cb8-9d54-5c4c32179eab",
             "id": "19",
             "name": "Imported From Firefox",
             "type": "folder"
+         }, {
+            "date_added": "13328802772947743",
+            "date_last_used": "0",
+            "guid": "4f524149-5111-4465-a6f0-f8a2a53686f4",
+            "id": "32",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Setting Up SSH Keys for GitHub - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=8X4u9sca3Io"
          } ],
          "date_added": "13327067214739367",
          "date_last_used": "0",
-         "date_modified": "0",
+         "date_modified": "13328802779205545",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks",

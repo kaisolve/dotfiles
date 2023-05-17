@@ -1,3 +1,12 @@
 2023/05/17-13:52:11.915 9ee3 Reusing MANIFEST /home/kai/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
 2023/05/17-13:52:11.916 9ee3 Recovering log #4
 2023/05/17-13:52:11.923 9ee3 Reusing old log /home/kai/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2023/05/17-14:10:52.940 9ee3 Level-0 table #8: started
+2023/05/17-14:10:52.960 9ee3 Level-0 table #8: 1187994 bytes OK
+2023/05/17-14:10:52.968 9ee3 Delete type=0 #4
+2023/05/17-14:18:38.636 9ee2 Compacting 1@1 + 1@2 files
+2023/05/17-14:18:38.650 9ee2 Generated table #9@1: 355 keys, 33279 bytes
+2023/05/17-14:18:38.650 9ee2 Compacted 1@1 + 1@2 files => 33279 bytes
+2023/05/17-14:18:38.655 9ee2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/17-14:18:38.655 9ee2 Delete type=2 #5
+2023/05/17-14:18:38.655 9ee2 Delete type=2 #8
